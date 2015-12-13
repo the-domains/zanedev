@@ -1,6 +1,6 @@
 name: zanedev
 favicon: null
-layout_spectrum: 0.8895832437556237
+layout_spectrum: 1
 typography_spectrum: 0.19268524879589677
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#fbffff'
+    - '#91c1ff'
+    - '#141821'
+    - '#604d53'
+    - '#fe889b'
   brandStrength: 0.9568204374518245
-  lightness: 0.9822195458691567
-  saturation: 0.15815747063606977
-  rhythmicContrast: 0.2830964212771505
+  lightness: 0.6875
+  saturation: 0.625
+  rhythmicContrast: 0.5
 purpose: []
