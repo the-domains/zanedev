@@ -1,28 +1,40 @@
-name: zanedev
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.06727
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: zanedev
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.625
+  brandStrength: 0.9568204374518245
+  rhythmicContrast: 0.5
   brandColors:
     - '#fbffff'
     - '#91c1ff'
     - '#141821'
     - '#604d53'
     - '#fe889b'
-  brandStrength: 0.9568204374518245
   lightness: 0.6875
-  saturation: 0.625
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.06727
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.4087003
+analytics:
+  twitter: null
+  google: null
+  facebook: null
