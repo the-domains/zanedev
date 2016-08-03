@@ -1,9 +1,34 @@
-favicon: null
-name: zanedev
+typography_spectrum: 0.06727
+color:
+  saturation: 0.625
+  brandStrength: 0.9568204374518245
+  rhythmicContrast: 0.5
+  brandColors:
+    - '#fbffff'
+    - '#91c1ff'
+    - '#141821'
+    - '#604d53'
+    - '#fe889b'
+  lightness: 0.6875
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.4087003
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: zanedev
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: Getting Started on The Grid
+    id: ffe85e73-be47-434c-933b-99bf36ba1c7a
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -17,24 +42,3 @@ collections:
       format: rss
       number: 10
 purpose: []
-color:
-  saturation: 0.625
-  brandStrength: 0.9568204374518245
-  rhythmicContrast: 0.5
-  brandColors:
-    - '#fbffff'
-    - '#91c1ff'
-    - '#141821'
-    - '#604d53'
-    - '#fe889b'
-  lightness: 0.6875
-typography_spectrum: 0.06727
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.4087003
-analytics:
-  twitter: null
-  google: null
-  facebook: null
