@@ -1,24 +1,26 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
-starred: false
 keywords: []
-description: Click the pencil icon in the bottom left to read more...
-datePublished: '2015-12-13T21:25:59.300Z'
-dateModified: '2015-12-13T21:25:52.755Z'
-title: Getting Started on The Grid
-author: []
+description: Hello the Grid!
+datePublished: '2016-08-03T15:49:56.005Z'
+dateModified: '2016-08-03T15:49:55.655Z'
+title: Fam in Tahoe
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2015-12-13-getting-started-on-the-grid.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
+url: fam-in-tahoe/index.html
 _context: 'http://schema.org'
 _type: Article
 
