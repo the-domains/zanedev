@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[zanedev]]></title>
+        <description><![CDATA[zanedev]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 03 Aug 2016 15:51:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fam in Tahoe]]></title>
+            <description><![CDATA[<article><h1>Fam in Tahoe</h1><p>Hello the Grid!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2e8059435ac34e827bfdf3239017795ece52c18.jpg"></article>]]></description>
+            <link>undefinedfam-in-tahoe/index.html</link>
+            <guid isPermaLink="false">ffe85e73-be47-434c-933b-99bf36ba1c7a</guid>
+            <pubDate>Wed, 03 Aug 2016 15:49:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
